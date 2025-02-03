@@ -1,0 +1,21 @@
+CUnited StatestomerID,CUnited StatestomerName,Email,DateOfBirth,AccountId,AccountType,BranchCode,Country,DateJoined,Balance
+101,Alice Johnson,alice.j@example.com,5/21/1990,ACCT-10002345,Savings,BR001,United States,1/15/2020,12000
+102,Bob Smith,bob.smith@xyz.com,8/15/1985,ACCT-10005678,Checking,BR002,United States,11/30/2019,3000
+103,Cathy Davis,cathy.davis@example.com,11/3/1992,ACCT-10007891,Savings,BR003,United States,6/1/2021,8500
+104,David Lee,david.l@xyz.com,2/28/1978,ACCT-10001234,Savings,BR004,United States,3/20/2021,5000
+105,Eva Turner,No Email Provided,4/7/1989,ACCT-10003456,Checking,BR005,United States,7/19/2020,-1000
+106,Frank Zhang,frank.zhang@xyz.com,12/13/1975,ACCT-10004567,Savings,BR006,United States,9/11/2018,7500
+107,Gina King,gina.k@example.com,3/20/1993,ACCT-10008901,Savings,BR007,Canada,1/9/2022,20000
+108,Harry Brown,harry.b@xyz.com,9/15/1987,ACCT-10006789,Checking,BR008,United States,8/21/2020,3500
+109,Ivy Scott,ivy.scott@example.com,,ACCT-10009876,Savings,BR009,Canada,11/14/2021,8000
+110,John Doe,No Email Provided,1/1/1990,ACCT-10005432,Savings,BR010,United States,3/29/2022,0
+111,Karen Green,karen.g@example.com,11/11/1984,ACCT-10007654,Savings,BR011,United States,12/5/2021,6000
+112,Liam Miller,liam.m@xyz.com,2/22/1991,ACCT-10004321,Checking,BR012,United Kingdom,5/25/2019,5500
+113,Mona Blue,mona.b@example.com,,ACCT-10002134,Savings,BR013,United States,1/18/2022,4000
+114,Nate White,No Email Provided,10/10/1995,ACCT-10006543,Checking,BR014,Canada,6/30/2018,10000
+115,Olivia Black,olivia.b@xyz.com,6/16/1982,ACCT-10003210,Savings,BR015,United States,7/19/2021,1500
+116,Paul Walker,paul.w@example.com,7/5/1998,ACCT-10005478,Savings,BR016,United States,9/25/2020,-500
+117,Quinn Red,quinn.r@xyz.com,4/22/1979,ACCT-10008765,Savings,BR017,United Kingdom,2/14/2019,23000
+118,Rose Pink,rose.p@example.com,8/8/1986,ACCT-10002301,Checking,BR018,New Zealand,3/9/2022,8700
+119,Sam Grey,sam.g@example.com,9/18/1990,ACCT-10007621,Checking,BR019,United Kingdom,4/4/2020,500
+120,Tim Orange,,12/31/1983,ACCT-10003489,Savings,BR020,Canada,7/23/2019,9200
