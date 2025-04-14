@@ -1,5 +1,5 @@
 # IBMDM
-## IBM Data Manager Professional Certificate
+## IBM Data Manager Professional Certificate (12 course series)
 
 Data management is projected to grow 140% by 2030 (IoT Analytics) and is a critical factor for an organization’s competitive edge. Now, more than ever, businesses need skilled data professionals to handle their data effectively. 
 
